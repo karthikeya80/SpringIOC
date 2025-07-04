@@ -11,6 +11,6 @@ public class Mobile {
 		Sim sim = context.getBean("sim", Sim.class);
 		sim.calling();
 		sim.data();
-
+		System.out.println(sim); 
 	}
 }
