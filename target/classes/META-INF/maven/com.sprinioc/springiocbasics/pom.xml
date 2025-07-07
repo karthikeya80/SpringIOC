@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.seleniumexpress</groupId>
-	<artifactId>SpringIOC-2</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-
-	<properties>
-		<maven.compiler.source>17</maven.compiler.source>
-		<maven.compiler.target>17</maven.compiler.target>
-	</properties>
-=======
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sprinioc</groupId>
@@ -44,5 +30,4 @@
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   </dependencies>
->>>>>>> e1a73ac0a813899044ee6e1857ab8e4654ab9c95
 </project>
